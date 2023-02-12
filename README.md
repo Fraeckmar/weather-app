@@ -1,0 +1,1 @@
+UI and UX are essentials for developing of an application. Implemetation of this must discuss and agreed by the group what is the best for better result.
